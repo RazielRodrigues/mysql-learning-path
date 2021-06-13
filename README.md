@@ -1,32 +1,32 @@
 # MySQL
 
-...
+    ...
 
 #### Conceitos:
 
-PK:
-TIPOS DADOS:
+    PK:
+    TIPOS DADOS:
 
 #### Cardinalidade:
 
-1-1:
-1-n:
-n-n:
+    1-1:
+    1-n:
+    n-n:
 
 #### Schema:
 
-...
+    ...
 
 
 #### Operações no BDD:
 
-DDL:
-DML:
-DLL:
-DTL:
+    DDL:
+    DML:
+    DLL:
+    DTL:
 
 #### Querys:
 
-SELECT:
-    -
-    -
+    SELECT:
+        -
+        -
