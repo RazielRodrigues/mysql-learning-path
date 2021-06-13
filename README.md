@@ -27,6 +27,10 @@
 
 #### Querys:
 
+    CREATE:
+        - ENUM('M', 'F') DETERMINA UMA REGRA DO QUE PODE SER INSERIDO NA COLUNA
+        -
+
     SELECT:
         -
         -
@@ -40,3 +44,9 @@
             values ('xxxx', 'xxxx', 'xxxxx', 'ssss') // 4
             ...
         -
+
+    UPDATE:
+        -
+        -
+    
+    
