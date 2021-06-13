@@ -19,3 +19,6 @@ select
 nome, sigla, populacao
 from estados
 where sigla = 'PR';
+
+INSERT INTO estados (nome, sigla, regiao, populacao)
+    VALUES ('Mais Novo', 'MN', 'Norte', 0.83);

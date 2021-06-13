@@ -1,0 +1,1 @@
+DELETE  FROM estados ${WHERE id = 32}
